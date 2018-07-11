@@ -7,6 +7,7 @@ public class rinku {
 		
 		System.out.println();
 		//
+		
 
 	}
 
